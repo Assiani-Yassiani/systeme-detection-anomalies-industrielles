@@ -61,11 +61,3 @@ Le projet inclut une **comparaison des modèles** :
 
 ---
 
-## 🎯 Intérêt du projet
-
-Ce projet montre :
-
-- la capacité à mettre en place une **pipeline complet de vision par ordinateur**,
-- la maîtrise de modèles de détection d’objets (**Fast R-CNN** et **YOLO**),
-- l’utilisation d’outils modernes comme **Roboflow** pour la gestion du dataset,
-- une démarche d’**évaluation et de comparaison** de modèles dans un cas concret d’**inspection visuelle industrielle**.
